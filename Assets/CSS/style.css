@@ -1,0 +1,85 @@
+h1, h2, h3, h4, .page-links{
+    font-family: 'Gugi', cursive;
+}
+p{
+    font-family: 'Do Hyeon', sans-serif;
+}
+h2{
+    border: 5px, black;
+    margin:0,auto;
+    width: 20%;
+    background-color:transparent;
+    color:black;
+}
+body{
+    background-image: url ("https://www.walldevil.com/wallpapers/a66/back-ground-background-images-website-official.jpg") ;
+    margin:0;
+    padding:0;
+    height:100%;
+    width:100%;
+}
+header{
+    background-color: aliceblue;
+    border-bottom: 5px, black;
+    padding: 0px;
+    margin:0px,auto;
+    width:100%;
+}
+#Main-Bio{
+    width:70%;
+}
+#name{
+    float: left;
+    background-color: aqua;
+    color: black
+}   
+footer{
+    position: relative; 
+    bottom: 5px;
+    border-style: solid;
+    border: black, 5px;
+    height: 30px;
+    width: 100%;
+    background-color:gray;
+    display:block;
+}
+h2{
+    color: beige;
+}
+#Contact Info{
+    border-style: solid;
+    border: black, 5px;
+    display: block;
+}
+p{
+    text-align: center; 
+}
+
+.card-group{
+    display:flex;
+}
+.card-body{
+    background-image: URL("https://www.walldevil.com/wallpapers/a66/back-ground-background-images-website-official.jpg")
+}
+.card-title{
+    color: white;
+}
+.card-text{
+    color: white;
+}
+a {
+    text-decoration: none;
+    color: darkgray;
+}
+a:hover{
+    color: yellow;
+    text-decoration: none;
+}
+a:focus{
+    text-decoration: none;
+    color: green;
+}
+a:active{
+    text-decoration: none;
+    color: red;
+}
