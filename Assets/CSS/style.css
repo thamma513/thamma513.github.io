@@ -3,6 +3,7 @@ h1, h2, h3, h4, .page-links{
 }
 p{
     font-family: 'Do Hyeon', sans-serif;
+    font-size: 25px;
 }
 h2{
     border: 5px, black;
@@ -82,4 +83,8 @@ a:focus{
 a:active{
     text-decoration: none;
     color: red;
+}
+#Bio-Image{
+    width: 200px;
+    height: auto;
 }
